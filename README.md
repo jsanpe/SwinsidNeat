@@ -1,6 +1,7 @@
 # Nano SwinSID Neat
 
 Yet another PCB layout of the nano SwinSID focusing on aesthetics
+![Nano SwinSID Neat](images/swinsidneat.jpg)
 
 ## What is this repo about?
 
