@@ -1,5 +1,9 @@
 # Nano SwinSID Neat
 
+Yet another PCB layout of the nano SwinSID focusing on aesthetics
+
+## What is this repo about?
+
 A kicad implementation of the Swinsid Nano. Based on the `nano SwinSID b` design by Tolaemon (http://tolaemon.com/nss/), this implementation preserves the schematic but introduces changes in the PCB layout:
 - All components are placed on the bottom layer: the goal is to leave the top layer component free and use the silkscreen to mimic the MOS 6581 logo. So, this new layout has aesthetic purposes only.
 - The LED is placed on the top layer, mostly for visibility reasons (in daylight conditions it is easier to spot the led to verify power is reaching the swinsid). However, the led is fully optional allowing the top layer to only have the silkscreen.
