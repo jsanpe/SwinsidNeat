@@ -1,6 +1,9 @@
 # Nano SwinSID Neat
 
 Yet another PCB layout of the nano SwinSID focusing on aesthetics
+
+*Note: The design was modified and the new PCB has not been fully tested. I will remove this note when I can get some PCBs with this new layout and test them myself.*
+
 <img alt="Nano SwinSID Neat" src="images/front.png" width="600">
 
 ## What is this repo about?
