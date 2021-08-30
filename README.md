@@ -40,7 +40,7 @@ Other than these two minor changes, the design is the exact same as Tolaemon's, 
 |240k	|R5	|SMD 0603|
 |330	|R6	|SMD 0603|
 |ATmega88PA-AU	|U1	|TQFP-32_7x7mm_P0.8mm|
-|SG-7050CAN |	X1	|Crystal_SMD_7050-4Pin_7.0x5.0mm|
+|SG-7050CAN 32Mhz|	X1	|Crystal_SMD_7050-4Pin_7.0x5.0mm|
 
 ## Jumpers
 - JP1: Selects emulation mode. Leave open for 8580, and close for 6581
