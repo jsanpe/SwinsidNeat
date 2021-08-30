@@ -1,7 +1,7 @@
 # Nano SwinSID Neat
 
 Yet another PCB layout of the nano SwinSID focusing on aesthetics
-![Nano SwinSID Neat](images/swinsidneat.jpg)
+<img alt="Nano SwinSID Neat" src="images/front.png" width="600">
 
 ## What is this repo about?
 
@@ -21,7 +21,6 @@ A kicad implementation of the Swinsid Nano. Based on the `nano SwinSID b` design
 | 6 - Gnd  | Pin 14| G|
 
 - The LED is placed on the top layer, mostly for visibility reasons (in daylight conditions it is easier to spot the led to verify power is reaching the swinsid). However, the led is fully optional allowing the top layer to only have the silkscreen.
-<img alt="SwinSID Front Layer" src="images/front.png" width="400">
 
 Other than these two minor changes, the design is the exact same as Tolaemon's, so all credits go to him and, of course, the original creator of the Swinsid Nano (x1541 ~ http://www.nightfallcrew.com/27/02/2011/nanoswinsid-pcb-by-x1541/) and its predecessors.
 
